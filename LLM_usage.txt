@@ -1,0 +1,13 @@
+Progress Tracker Help:
+https://chatgpt.com/share/67d45250-6f1c-8010-9973-208f1a32aaf2
+
+Helped develop the progress tracker for training. It worked well stepping through the process iteratively to what I wanted.
+It came with some bugs, but it fixed them itself by walking through what was going wrong.
+
+
+Tokenization Assistance:
+https://chatgpt.com/share/67d4533d-6888-8010-91c1-fff59f41dc53
+https://chatgpt.com/share/67d4535c-21e0-8010-bdd3-bdc22a58786e
+
+I didn't really understand how pre-trained tokenization was supposed to work. I didn't end up using any code directly from it,
+but some of the approaches may be similar.
