@@ -1,6 +1,6 @@
 Joey Dutton:
 
-Colton Koenig:
+Colton Koenig: Text processing/dataset creation, loss plot, generating function, helped with transformer class and original tokenization
 
 Jack O'Reilly:
 
