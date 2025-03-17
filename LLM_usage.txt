@@ -11,3 +11,7 @@ https://chatgpt.com/share/67d4535c-21e0-8010-bdd3-bdc22a58786e
 
 I didn't really understand how pre-trained tokenization was supposed to work. I didn't end up using any code directly from it,
 but some of the approaches may be similar.
+
+
+Helped with dimension disagreements, tensor creation, and generation function
+https://docs.google.com/document/d/1U-DsEnmfYfMLOUBybckqtRrcGGDO1cJ6MG3Ji8yRpA4/edit?usp=sharing
