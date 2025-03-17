@@ -2,7 +2,7 @@ Joey Dutton:
 
 Colton Koenig: Text processing/dataset creation, loss plot, generating function, helped with transformer class and original tokenization
 
-Jack O'Reilly:
+Jack O'Reilly: Original transformer architecture - Semifunctional, Training loop.
 
 Levi Sprung:
 
