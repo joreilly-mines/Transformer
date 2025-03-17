@@ -4,6 +4,6 @@ Colton Koenig: Text processing/dataset creation, loss plot, generating function,
 
 Jack O'Reilly: Original transformer architecture - Semifunctional, Training loop.
 
-Levi Sprung:
+Levi Sprung: Typed in class work days, debugging and dimension fixes in transformer, text processing/dataset creation, generating function
 
 Nate Webster: Multiheaded Attention (Heads), Training Progress Tracker, Pre-Trained Tokenization
