@@ -4,8 +4,8 @@ GPT chat link: https://chatgpt.com/share/67d0b93a-2804-800d-9633-28bb99095d8a
 
 Colton Koenig: Text processing/dataset creation, loss plot, generating function, helped with transformer class and original tokenization
 
-Jack O'Reilly:
+Jack O'Reilly: Original transformer architecture - Semifunctional, Training loop.
 
-Levi Sprung:
+Levi Sprung: Typed in class work days, debugging and dimension fixes in transformer, text processing/dataset creation, generating function
 
 Nate Webster: Multiheaded Attention (Heads), Training Progress Tracker, Pre-Trained Tokenization
