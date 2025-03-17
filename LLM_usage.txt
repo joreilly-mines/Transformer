@@ -15,3 +15,8 @@ but some of the approaches may be similar.
 
 Helped with dimension disagreements, tensor creation, and generation function
 https://docs.google.com/document/d/1U-DsEnmfYfMLOUBybckqtRrcGGDO1cJ6MG3Ji8yRpA4/edit?usp=sharing
+
+Generating function:
+https://chatgpt.com/share/67d77510-e704-800b-abb2-417b7d503d30
+
+There was an issue with the same token being repeated every for every new token. GPT 4o helped write a simple if statement that avoided this after multinomial sampling suggestions. In this case, GPT was used for ease and accuracy.
