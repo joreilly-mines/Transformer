@@ -1,4 +1,6 @@
-Joey Dutton:
+Joey Dutton: Helped build Attention Head, MHA, MLP, Transformer Block, and Transformer in class with group. Positional embeddings and Layer Norm on my own 
+
+GPT chat link: https://chatgpt.com/share/67d0b93a-2804-800d-9633-28bb99095d8a
 
 Colton Koenig: Text processing/dataset creation, loss plot, generating function, helped with transformer class and original tokenization
 
